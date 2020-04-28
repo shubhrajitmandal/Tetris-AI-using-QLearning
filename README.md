@@ -1,6 +1,6 @@
 # QLearning
 
-A simple bot for playing tetris using Qlearning in python.
+A simple bot for playing tetris using Qlearning (Reinforcement Learning) in python.
 
 FEATURES USED:
 1. Complete Lines
